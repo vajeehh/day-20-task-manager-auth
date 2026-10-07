@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000";
+const API_URL = "https://day-20-task-manager-auth.onrender.com";
 
 // Show Login
 function showLogin() {
